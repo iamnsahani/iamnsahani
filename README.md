@@ -157,18 +157,7 @@ I'm currently interested in building more advanced applications using:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=iamnsahani&show_icons=true&hide_border=true"
-    alt="Nandlal's GitHub Stats"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=iamnsahani&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 <p align="center">
   <img
