@@ -251,9 +251,4 @@ I'm always interested in connecting with developers, founders, clients and peopl
 
 ---
 
-<p align="center">
-  <b>Build useful things. Keep learning. Keep shipping.</b>
-</p>
-```
 
-After pasting it, replace the placeholder text under **Featured Projects** with the actual live URLs and GitHub repository links as you make those projects public. I’d also recommend keeping this version relatively clean rather than adding too many animations or badges.
