@@ -154,19 +154,6 @@ I'm currently interested in building more advanced applications using:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnsahani&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ## ✍️ Writing
 
